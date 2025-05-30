@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Téléchargement Météo</title>
+</head>
+<body>
+  <h1>Téléchargements des fichiers météo</h1>
+  <p>Cliquez sur les liens ci-dessous pour télécharger les fichiers :</p>
+  
+  <ul>
+    <li><a href="https://static5.mclcm.net/mc2020/int/cartes/marine/grib/METEOCONSULT18Z_VENT_0529_Sud_Italie.grb" download target="_blank">M1 - Sud Italie</a></li>
+    <li><a href="https://static5.mclcm.net/mc2020/int/cartes/marine/grib/METEOCONSULT18Z_VENT_0529_Sud_Malte.grb" download target="_blank">M2 - Sud Malte</a></li>
+  </ul>
+</body>
+</html>
